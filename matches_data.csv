@@ -1,619 +1,591 @@
 date,home_team,score,away_team
-14-03-2026,Arsenal,2 - 0,Everton
-04-03-2026,Brighton,0 - 1,Arsenal
-01-03-2026,Arsenal,2 - 1,Chelsea
-22-02-2026,Tottenham,1 - 4,Arsenal
-18-02-2026,Wolves,2 - 2,Arsenal
-12-02-2026,Brentford,1 - 1,Arsenal
-07-02-2026,Arsenal,3 - 0,Sunderland
-31-01-2026,Leeds,0 - 4,Arsenal
-25-01-2026,Arsenal,2 - 3,Man United
-17-01-2026,Nott'm Forest,0 - 0,Arsenal
-08-01-2026,Arsenal,0 - 0,Liverpool
-03-01-2026,Bournemouth,2 - 3,Arsenal
-30-12-2025,Arsenal,4 - 1,Aston Villa
-27-12-2025,Arsenal,2 - 1,Brighton
-20-12-2025,Everton,0 - 1,Arsenal
-13-12-2025,Arsenal,2 - 1,Wolves
-06-12-2025,Aston Villa,2 - 1,Arsenal
-03-12-2025,Arsenal,2 - 0,Brentford
-30-11-2025,Chelsea,1 - 1,Arsenal
-23-11-2025,Arsenal,4 - 1,Tottenham
-08-11-2025,Sunderland,2 - 2,Arsenal
-01-11-2025,Burnley,0 - 2,Arsenal
-26-10-2025,Arsenal,1 - 0,Crystal Palace
-18-10-2025,Fulham,0 - 1,Arsenal
-04-10-2025,Arsenal,2 - 0,West Ham
-28-09-2025,Newcastle,1 - 2,Arsenal
-21-09-2025,Arsenal,1 - 1,Man City
-13-09-2025,Arsenal,3 - 0,Nott'm Forest
-31-08-2025,Liverpool,1 - 0,Arsenal
-23-08-2025,Arsenal,5 - 0,Leeds
-17-08-2025,Man United,0 - 1,Arsenal
-22-03-2026,Aston Villa,2 - 0,West Ham
-15-03-2026,Man United,3 - 1,Aston Villa
-04-03-2026,Aston Villa,1 - 4,Chelsea
-27-02-2026,Wolves,2 - 0,Aston Villa
-21-02-2026,Aston Villa,1 - 1,Leeds
-11-02-2026,Aston Villa,1 - 0,Brighton
-07-02-2026,Bournemouth,1 - 1,Aston Villa
-01-02-2026,Aston Villa,0 - 1,Brentford
-25-01-2026,Newcastle,0 - 2,Aston Villa
-18-01-2026,Aston Villa,0 - 1,Everton
-07-01-2026,Crystal Palace,0 - 0,Aston Villa
-03-01-2026,Aston Villa,3 - 1,Nott'm Forest
-30-12-2025,Arsenal,4 - 1,Aston Villa
-27-12-2025,Chelsea,1 - 2,Aston Villa
-21-12-2025,Aston Villa,2 - 1,Man United
-14-12-2025,West Ham,2 - 3,Aston Villa
-06-12-2025,Aston Villa,2 - 1,Arsenal
-03-12-2025,Brighton,3 - 4,Aston Villa
-30-11-2025,Aston Villa,1 - 0,Wolves
-23-11-2025,Leeds,1 - 2,Aston Villa
-09-11-2025,Aston Villa,4 - 0,Bournemouth
-01-11-2025,Liverpool,2 - 0,Aston Villa
-26-10-2025,Aston Villa,1 - 0,Man City
-19-10-2025,Tottenham,1 - 2,Aston Villa
-05-10-2025,Aston Villa,2 - 1,Burnley
-28-09-2025,Aston Villa,3 - 1,Fulham
-21-09-2025,Sunderland,1 - 1,Aston Villa
-13-09-2025,Everton,0 - 0,Aston Villa
-31-08-2025,Aston Villa,0 - 3,Crystal Palace
-23-08-2025,Brentford,1 - 0,Aston Villa
-16-08-2025,Aston Villa,0 - 0,Newcastle
-20-03-2026,Bournemouth,2 - 2,Man United
-14-03-2026,Burnley,0 - 0,Bournemouth
-03-03-2026,Bournemouth,0 - 0,Brentford
-28-02-2026,Bournemouth,1 - 1,Sunderland
-21-02-2026,West Ham,0 - 0,Bournemouth
-10-02-2026,Everton,1 - 2,Bournemouth
-07-02-2026,Bournemouth,1 - 1,Aston Villa
-31-01-2026,Wolves,0 - 2,Bournemouth
-24-01-2026,Bournemouth,3 - 2,Liverpool
-19-01-2026,Brighton,1 - 1,Bournemouth
-07-01-2026,Bournemouth,3 - 2,Tottenham
-03-01-2026,Bournemouth,2 - 3,Arsenal
-30-12-2025,Chelsea,2 - 2,Bournemouth
-27-12-2025,Brentford,4 - 1,Bournemouth
-20-12-2025,Bournemouth,1 - 1,Burnley
-15-12-2025,Man United,4 - 4,Bournemouth
-06-12-2025,Bournemouth,0 - 0,Chelsea
-02-12-2025,Bournemouth,0 - 1,Everton
-29-11-2025,Sunderland,3 - 2,Bournemouth
-22-11-2025,Bournemouth,2 - 2,West Ham
-09-11-2025,Aston Villa,4 - 0,Bournemouth
-02-11-2025,Man City,3 - 1,Bournemouth
-26-10-2025,Bournemouth,2 - 0,Nott'm Forest
-18-10-2025,Crystal Palace,3 - 3,Bournemouth
-03-10-2025,Bournemouth,3 - 1,Fulham
-27-09-2025,Leeds,2 - 2,Bournemouth
-21-09-2025,Bournemouth,0 - 0,Newcastle
-13-09-2025,Bournemouth,2 - 1,Brighton
-30-08-2025,Tottenham,0 - 1,Bournemouth
-23-08-2025,Bournemouth,1 - 0,Wolves
-15-08-2025,Liverpool,4 - 2,Bournemouth
-21-03-2026,Leeds,0 - 0,Brentford
-16-03-2026,Brentford,2 - 2,Wolves
-03-03-2026,Bournemouth,0 - 0,Brentford
-28-02-2026,Burnley,3 - 4,Brentford
-21-02-2026,Brentford,0 - 2,Brighton
-12-02-2026,Brentford,1 - 1,Arsenal
-07-02-2026,Newcastle,2 - 3,Brentford
-01-02-2026,Aston Villa,0 - 1,Brentford
-25-01-2026,Brentford,0 - 2,Nott'm Forest
-17-01-2026,Chelsea,2 - 0,Brentford
-07-01-2026,Brentford,3 - 0,Sunderland
-04-01-2026,Everton,2 - 4,Brentford
-01-01-2026,Brentford,0 - 0,Tottenham
-27-12-2025,Brentford,4 - 1,Bournemouth
-20-12-2025,Wolves,0 - 2,Brentford
-14-12-2025,Brentford,1 - 1,Leeds
-06-12-2025,Tottenham,2 - 0,Brentford
-03-12-2025,Arsenal,2 - 0,Brentford
-29-11-2025,Brentford,3 - 1,Burnley
-22-11-2025,Brighton,2 - 1,Brentford
-09-11-2025,Brentford,3 - 1,Newcastle
-01-11-2025,Crystal Palace,2 - 0,Brentford
-25-10-2025,Brentford,3 - 2,Liverpool
-20-10-2025,West Ham,0 - 2,Brentford
-05-10-2025,Brentford,0 - 1,Man City
-27-09-2025,Brentford,3 - 1,Man United
-20-09-2025,Fulham,3 - 1,Brentford
-13-09-2025,Brentford,2 - 2,Chelsea
-30-08-2025,Sunderland,2 - 1,Brentford
-23-08-2025,Brentford,1 - 0,Aston Villa
-17-08-2025,Nott'm Forest,3 - 1,Brentford
-21-03-2026,Brighton,2 - 1,Liverpool
-14-03-2026,Sunderland,0 - 1,Brighton
-04-03-2026,Brighton,0 - 1,Arsenal
-01-03-2026,Brighton,2 - 1,Nott'm Forest
-21-02-2026,Brentford,0 - 2,Brighton
-11-02-2026,Aston Villa,1 - 0,Brighton
-08-02-2026,Brighton,0 - 1,Crystal Palace
-31-01-2026,Brighton,1 - 1,Everton
-24-01-2026,Fulham,2 - 1,Brighton
-19-01-2026,Brighton,1 - 1,Bournemouth
-07-01-2026,Man City,1 - 1,Brighton
-03-01-2026,Brighton,2 - 0,Burnley
-30-12-2025,West Ham,2 - 2,Brighton
-27-12-2025,Arsenal,2 - 1,Brighton
-20-12-2025,Brighton,0 - 0,Sunderland
-13-12-2025,Liverpool,2 - 0,Brighton
-07-12-2025,Brighton,1 - 1,West Ham
-03-12-2025,Brighton,3 - 4,Aston Villa
-30-11-2025,Nott'm Forest,0 - 2,Brighton
-22-11-2025,Brighton,2 - 1,Brentford
-09-11-2025,Crystal Palace,0 - 0,Brighton
-01-11-2025,Brighton,3 - 0,Leeds
-25-10-2025,Man United,4 - 2,Brighton
-18-10-2025,Brighton,2 - 1,Newcastle
-05-10-2025,Wolves,1 - 1,Brighton
-27-09-2025,Chelsea,1 - 3,Brighton
-20-09-2025,Brighton,2 - 2,Tottenham
-13-09-2025,Bournemouth,2 - 1,Brighton
-31-08-2025,Brighton,2 - 1,Man City
-24-08-2025,Everton,2 - 0,Brighton
-16-08-2025,Brighton,1 - 1,Fulham
-21-03-2026,Fulham,3 - 1,Burnley
-14-03-2026,Burnley,0 - 0,Bournemouth
-03-03-2026,Everton,2 - 0,Burnley
-28-02-2026,Burnley,3 - 4,Brentford
-21-02-2026,Chelsea,1 - 1,Burnley
-11-02-2026,Crystal Palace,2 - 3,Burnley
-07-02-2026,Burnley,0 - 2,West Ham
-02-02-2026,Sunderland,3 - 0,Burnley
-24-01-2026,Burnley,2 - 2,Tottenham
-17-01-2026,Liverpool,1 - 1,Burnley
-07-01-2026,Burnley,2 - 2,Man United
-03-01-2026,Brighton,2 - 0,Burnley
-30-12-2025,Burnley,1 - 3,Newcastle
-27-12-2025,Burnley,0 - 0,Everton
-20-12-2025,Bournemouth,1 - 1,Burnley
-13-12-2025,Burnley,2 - 3,Fulham
-06-12-2025,Newcastle,2 - 1,Burnley
-03-12-2025,Burnley,0 - 1,Crystal Palace
-29-11-2025,Brentford,3 - 1,Burnley
-22-11-2025,Burnley,0 - 2,Chelsea
-08-11-2025,West Ham,3 - 2,Burnley
-01-11-2025,Burnley,0 - 2,Arsenal
-26-10-2025,Wolves,2 - 3,Burnley
-18-10-2025,Burnley,2 - 0,Leeds
-05-10-2025,Aston Villa,2 - 1,Burnley
-27-09-2025,Man City,5 - 1,Burnley
-20-09-2025,Burnley,1 - 1,Nott'm Forest
-14-09-2025,Burnley,0 - 1,Liverpool
-30-08-2025,Man United,3 - 2,Burnley
-23-08-2025,Burnley,2 - 0,Sunderland
-16-08-2025,Tottenham,3 - 0,Burnley
-21-03-2026,Everton,3 - 0,Chelsea
-14-03-2026,Chelsea,0 - 1,Newcastle
-04-03-2026,Aston Villa,1 - 4,Chelsea
-01-03-2026,Arsenal,2 - 1,Chelsea
-21-02-2026,Chelsea,1 - 1,Burnley
-10-02-2026,Chelsea,2 - 2,Leeds
-07-02-2026,Wolves,1 - 3,Chelsea
-31-01-2026,Chelsea,3 - 2,West Ham
-25-01-2026,Crystal Palace,1 - 3,Chelsea
-17-01-2026,Chelsea,2 - 0,Brentford
-07-01-2026,Fulham,2 - 1,Chelsea
-04-01-2026,Man City,1 - 1,Chelsea
-30-12-2025,Chelsea,2 - 2,Bournemouth
-27-12-2025,Chelsea,1 - 2,Aston Villa
-20-12-2025,Newcastle,2 - 2,Chelsea
-13-12-2025,Chelsea,2 - 0,Everton
-06-12-2025,Bournemouth,0 - 0,Chelsea
-03-12-2025,Leeds,3 - 1,Chelsea
-30-11-2025,Chelsea,1 - 1,Arsenal
-22-11-2025,Burnley,0 - 2,Chelsea
-08-11-2025,Chelsea,3 - 0,Wolves
-01-11-2025,Tottenham,0 - 1,Chelsea
-25-10-2025,Chelsea,1 - 2,Sunderland
-18-10-2025,Nott'm Forest,0 - 3,Chelsea
-04-10-2025,Chelsea,2 - 1,Liverpool
-27-09-2025,Chelsea,1 - 3,Brighton
-20-09-2025,Man United,2 - 1,Chelsea
-13-09-2025,Brentford,2 - 2,Chelsea
-30-08-2025,Chelsea,2 - 0,Fulham
-22-08-2025,West Ham,1 - 5,Chelsea
-17-08-2025,Chelsea,0 - 0,Crystal Palace
-15-03-2026,Crystal Palace,0 - 0,Leeds
-05-03-2026,Tottenham,1 - 3,Crystal Palace
-01-03-2026,Man United,2 - 1,Crystal Palace
-22-02-2026,Crystal Palace,1 - 0,Wolves
-11-02-2026,Crystal Palace,2 - 3,Burnley
-08-02-2026,Brighton,0 - 1,Crystal Palace
-01-02-2026,Nott'm Forest,1 - 1,Crystal Palace
-25-01-2026,Crystal Palace,1 - 3,Chelsea
-17-01-2026,Sunderland,2 - 1,Crystal Palace
-07-01-2026,Crystal Palace,0 - 0,Aston Villa
-04-01-2026,Newcastle,2 - 0,Crystal Palace
-01-01-2026,Crystal Palace,1 - 1,Fulham
-28-12-2025,Crystal Palace,0 - 1,Tottenham
-20-12-2025,Leeds,4 - 1,Crystal Palace
-14-12-2025,Crystal Palace,0 - 3,Man City
-07-12-2025,Fulham,1 - 2,Crystal Palace
-03-12-2025,Burnley,0 - 1,Crystal Palace
-30-11-2025,Crystal Palace,1 - 2,Man United
-22-11-2025,Wolves,0 - 2,Crystal Palace
-09-11-2025,Crystal Palace,0 - 0,Brighton
-01-11-2025,Crystal Palace,2 - 0,Brentford
-26-10-2025,Arsenal,1 - 0,Crystal Palace
-18-10-2025,Crystal Palace,3 - 3,Bournemouth
-05-10-2025,Everton,2 - 1,Crystal Palace
-27-09-2025,Crystal Palace,2 - 1,Liverpool
-20-09-2025,West Ham,1 - 2,Crystal Palace
-13-09-2025,Crystal Palace,0 - 0,Sunderland
-31-08-2025,Aston Villa,0 - 3,Crystal Palace
-24-08-2025,Crystal Palace,1 - 1,Nott'm Forest
-17-08-2025,Chelsea,0 - 0,Crystal Palace
-21-03-2026,Everton,3 - 0,Chelsea
-14-03-2026,Arsenal,2 - 0,Everton
-03-03-2026,Everton,2 - 0,Burnley
-28-02-2026,Newcastle,2 - 3,Everton
-23-02-2026,Everton,0 - 1,Man United
-10-02-2026,Everton,1 - 2,Bournemouth
-07-02-2026,Fulham,1 - 2,Everton
-31-01-2026,Brighton,1 - 1,Everton
-26-01-2026,Everton,1 - 1,Leeds
-18-01-2026,Aston Villa,0 - 1,Everton
-07-01-2026,Everton,1 - 1,Wolves
-04-01-2026,Everton,2 - 4,Brentford
-30-12-2025,Nott'm Forest,0 - 2,Everton
-27-12-2025,Burnley,0 - 0,Everton
-20-12-2025,Everton,0 - 1,Arsenal
-13-12-2025,Chelsea,2 - 0,Everton
-06-12-2025,Everton,3 - 0,Nott'm Forest
-02-12-2025,Bournemouth,0 - 1,Everton
-29-11-2025,Everton,1 - 4,Newcastle
-24-11-2025,Man United,0 - 1,Everton
-08-11-2025,Everton,2 - 0,Fulham
-03-11-2025,Sunderland,1 - 1,Everton
-26-10-2025,Everton,0 - 3,Tottenham
-18-10-2025,Man City,2 - 0,Everton
-05-10-2025,Everton,2 - 1,Crystal Palace
-29-09-2025,Everton,1 - 1,West Ham
-20-09-2025,Liverpool,2 - 1,Everton
-13-09-2025,Everton,0 - 0,Aston Villa
-30-08-2025,Wolves,2 - 3,Everton
-24-08-2025,Everton,2 - 0,Brighton
-18-08-2025,Leeds,1 - 0,Everton
-21-03-2026,Fulham,3 - 1,Burnley
-15-03-2026,Nott'm Forest,0 - 0,Fulham
-04-03-2026,Fulham,0 - 1,West Ham
-01-03-2026,Fulham,2 - 1,Tottenham
-22-02-2026,Sunderland,1 - 3,Fulham
-11-02-2026,Man City,3 - 0,Fulham
-07-02-2026,Fulham,1 - 2,Everton
-01-02-2026,Man United,3 - 2,Fulham
-24-01-2026,Fulham,2 - 1,Brighton
-17-01-2026,Leeds,1 - 0,Fulham
-07-01-2026,Fulham,2 - 1,Chelsea
-04-01-2026,Fulham,2 - 2,Liverpool
-01-01-2026,Crystal Palace,1 - 1,Fulham
-27-12-2025,West Ham,0 - 1,Fulham
-22-12-2025,Fulham,1 - 0,Nott'm Forest
-13-12-2025,Burnley,2 - 3,Fulham
-07-12-2025,Fulham,1 - 2,Crystal Palace
-02-12-2025,Fulham,4 - 5,Man City
-29-11-2025,Tottenham,1 - 2,Fulham
-22-11-2025,Fulham,1 - 0,Sunderland
-08-11-2025,Everton,2 - 0,Fulham
-01-11-2025,Fulham,3 - 0,Wolves
-25-10-2025,Newcastle,2 - 1,Fulham
-18-10-2025,Fulham,0 - 1,Arsenal
-03-10-2025,Bournemouth,3 - 1,Fulham
-28-09-2025,Aston Villa,3 - 1,Fulham
-20-09-2025,Fulham,3 - 1,Brentford
-13-09-2025,Fulham,1 - 0,Leeds
-30-08-2025,Chelsea,2 - 0,Fulham
-24-08-2025,Fulham,1 - 1,Man United
-16-08-2025,Brighton,1 - 1,Fulham
-21-03-2026,Leeds,0 - 0,Brentford
-15-03-2026,Crystal Palace,0 - 0,Leeds
-03-03-2026,Leeds,0 - 1,Sunderland
-28-02-2026,Leeds,0 - 1,Man City
-21-02-2026,Aston Villa,1 - 1,Leeds
-10-02-2026,Chelsea,2 - 2,Leeds
-06-02-2026,Leeds,3 - 1,Nott'm Forest
-31-01-2026,Leeds,0 - 4,Arsenal
-26-01-2026,Everton,1 - 1,Leeds
-17-01-2026,Leeds,1 - 0,Fulham
-07-01-2026,Newcastle,4 - 3,Leeds
-04-01-2026,Leeds,1 - 1,Man United
-01-01-2026,Liverpool,0 - 0,Leeds
-28-12-2025,Sunderland,1 - 1,Leeds
-20-12-2025,Leeds,4 - 1,Crystal Palace
-14-12-2025,Brentford,1 - 1,Leeds
-06-12-2025,Leeds,3 - 3,Liverpool
-03-12-2025,Leeds,3 - 1,Chelsea
-29-11-2025,Man City,3 - 2,Leeds
-23-11-2025,Leeds,1 - 2,Aston Villa
-09-11-2025,Nott'm Forest,3 - 1,Leeds
-01-11-2025,Brighton,3 - 0,Leeds
-24-10-2025,Leeds,2 - 1,West Ham
-18-10-2025,Burnley,2 - 0,Leeds
-04-10-2025,Leeds,1 - 2,Tottenham
-27-09-2025,Leeds,2 - 2,Bournemouth
-20-09-2025,Wolves,1 - 3,Leeds
-13-09-2025,Fulham,1 - 0,Leeds
-30-08-2025,Leeds,0 - 0,Newcastle
-23-08-2025,Arsenal,5 - 0,Leeds
-18-08-2025,Leeds,1 - 0,Everton
-21-03-2026,Brighton,2 - 1,Liverpool
-15-03-2026,Liverpool,1 - 1,Tottenham
-03-03-2026,Wolves,2 - 1,Liverpool
-28-02-2026,Liverpool,5 - 2,West Ham
-22-02-2026,Nott'm Forest,0 - 1,Liverpool
-11-02-2026,Sunderland,0 - 1,Liverpool
-08-02-2026,Liverpool,1 - 2,Man City
-31-01-2026,Liverpool,4 - 1,Newcastle
-24-01-2026,Bournemouth,3 - 2,Liverpool
-17-01-2026,Liverpool,1 - 1,Burnley
-08-01-2026,Arsenal,0 - 0,Liverpool
-04-01-2026,Fulham,2 - 2,Liverpool
-01-01-2026,Liverpool,0 - 0,Leeds
-27-12-2025,Liverpool,2 - 1,Wolves
-20-12-2025,Tottenham,1 - 2,Liverpool
-13-12-2025,Liverpool,2 - 0,Brighton
-06-12-2025,Leeds,3 - 3,Liverpool
-03-12-2025,Liverpool,1 - 1,Sunderland
-30-11-2025,West Ham,0 - 2,Liverpool
-22-11-2025,Liverpool,0 - 3,Nott'm Forest
-09-11-2025,Man City,3 - 0,Liverpool
-01-11-2025,Liverpool,2 - 0,Aston Villa
-25-10-2025,Brentford,3 - 2,Liverpool
-19-10-2025,Liverpool,1 - 2,Man United
-04-10-2025,Chelsea,2 - 1,Liverpool
-27-09-2025,Crystal Palace,2 - 1,Liverpool
-20-09-2025,Liverpool,2 - 1,Everton
-14-09-2025,Burnley,0 - 1,Liverpool
-31-08-2025,Liverpool,1 - 0,Arsenal
-25-08-2025,Newcastle,2 - 3,Liverpool
-15-08-2025,Liverpool,4 - 2,Bournemouth
-14-03-2026,West Ham,1 - 1,Man City
-04-03-2026,Man City,2 - 2,Nott'm Forest
-28-02-2026,Leeds,0 - 1,Man City
-21-02-2026,Man City,2 - 1,Newcastle
-11-02-2026,Man City,3 - 0,Fulham
-08-02-2026,Liverpool,1 - 2,Man City
-01-02-2026,Tottenham,2 - 2,Man City
-24-01-2026,Man City,2 - 0,Wolves
-17-01-2026,Man United,2 - 0,Man City
-07-01-2026,Man City,1 - 1,Brighton
-04-01-2026,Man City,1 - 1,Chelsea
-01-01-2026,Sunderland,0 - 0,Man City
-27-12-2025,Nott'm Forest,1 - 2,Man City
-20-12-2025,Man City,3 - 0,West Ham
-14-12-2025,Crystal Palace,0 - 3,Man City
-06-12-2025,Man City,3 - 0,Sunderland
-02-12-2025,Fulham,4 - 5,Man City
-29-11-2025,Man City,3 - 2,Leeds
-22-11-2025,Newcastle,2 - 1,Man City
-09-11-2025,Man City,3 - 0,Liverpool
-02-11-2025,Man City,3 - 1,Bournemouth
-26-10-2025,Aston Villa,1 - 0,Man City
-18-10-2025,Man City,2 - 0,Everton
-05-10-2025,Brentford,0 - 1,Man City
-27-09-2025,Man City,5 - 1,Burnley
-21-09-2025,Arsenal,1 - 1,Man City
-14-09-2025,Man City,3 - 0,Man United
-31-08-2025,Brighton,2 - 1,Man City
-23-08-2025,Man City,0 - 2,Tottenham
-16-08-2025,Wolves,0 - 4,Man City
-20-03-2026,Bournemouth,2 - 2,Man United
-15-03-2026,Man United,3 - 1,Aston Villa
-04-03-2026,Newcastle,2 - 1,Man United
-01-03-2026,Man United,2 - 1,Crystal Palace
-23-02-2026,Everton,0 - 1,Man United
-10-02-2026,West Ham,1 - 1,Man United
-07-02-2026,Man United,2 - 0,Tottenham
-01-02-2026,Man United,3 - 2,Fulham
-25-01-2026,Arsenal,2 - 3,Man United
-17-01-2026,Man United,2 - 0,Man City
-07-01-2026,Burnley,2 - 2,Man United
-04-01-2026,Leeds,1 - 1,Man United
-30-12-2025,Man United,1 - 1,Wolves
-26-12-2025,Man United,1 - 0,Newcastle
-21-12-2025,Aston Villa,2 - 1,Man United
-15-12-2025,Man United,4 - 4,Bournemouth
-08-12-2025,Wolves,1 - 4,Man United
-04-12-2025,Man United,1 - 1,West Ham
-30-11-2025,Crystal Palace,1 - 2,Man United
-24-11-2025,Man United,0 - 1,Everton
-08-11-2025,Tottenham,2 - 2,Man United
-01-11-2025,Nott'm Forest,2 - 2,Man United
-25-10-2025,Man United,4 - 2,Brighton
-19-10-2025,Liverpool,1 - 2,Man United
-04-10-2025,Man United,2 - 0,Sunderland
-27-09-2025,Brentford,3 - 1,Man United
-20-09-2025,Man United,2 - 1,Chelsea
-14-09-2025,Man City,3 - 0,Man United
-30-08-2025,Man United,3 - 2,Burnley
-24-08-2025,Fulham,1 - 1,Man United
-17-08-2025,Man United,0 - 1,Arsenal
-22-03-2026,Newcastle,1 - 2,Sunderland
-14-03-2026,Chelsea,0 - 1,Newcastle
-04-03-2026,Newcastle,2 - 1,Man United
-28-02-2026,Newcastle,2 - 3,Everton
-21-02-2026,Man City,2 - 1,Newcastle
-10-02-2026,Tottenham,1 - 2,Newcastle
-07-02-2026,Newcastle,2 - 3,Brentford
-31-01-2026,Liverpool,4 - 1,Newcastle
-25-01-2026,Newcastle,0 - 2,Aston Villa
-18-01-2026,Wolves,0 - 0,Newcastle
-07-01-2026,Newcastle,4 - 3,Leeds
-04-01-2026,Newcastle,2 - 0,Crystal Palace
-30-12-2025,Burnley,1 - 3,Newcastle
-26-12-2025,Man United,1 - 0,Newcastle
-20-12-2025,Newcastle,2 - 2,Chelsea
-14-12-2025,Sunderland,1 - 0,Newcastle
-06-12-2025,Newcastle,2 - 1,Burnley
-02-12-2025,Newcastle,2 - 2,Tottenham
-29-11-2025,Everton,1 - 4,Newcastle
-22-11-2025,Newcastle,2 - 1,Man City
-09-11-2025,Brentford,3 - 1,Newcastle
-02-11-2025,West Ham,3 - 1,Newcastle
-25-10-2025,Newcastle,2 - 1,Fulham
-18-10-2025,Brighton,2 - 1,Newcastle
-05-10-2025,Newcastle,2 - 0,Nott'm Forest
-28-09-2025,Newcastle,1 - 2,Arsenal
-21-09-2025,Bournemouth,0 - 0,Newcastle
-13-09-2025,Newcastle,1 - 0,Wolves
-30-08-2025,Leeds,0 - 0,Newcastle
-25-08-2025,Newcastle,2 - 3,Liverpool
-16-08-2025,Aston Villa,0 - 0,Newcastle
-22-03-2026,Tottenham,0 - 3,Nott'm Forest
-15-03-2026,Nott'm Forest,0 - 0,Fulham
-04-03-2026,Man City,2 - 2,Nott'm Forest
-01-03-2026,Brighton,2 - 1,Nott'm Forest
-22-02-2026,Nott'm Forest,0 - 1,Liverpool
-11-02-2026,Nott'm Forest,0 - 0,Wolves
-06-02-2026,Leeds,3 - 1,Nott'm Forest
-01-02-2026,Nott'm Forest,1 - 1,Crystal Palace
-25-01-2026,Brentford,0 - 2,Nott'm Forest
-17-01-2026,Nott'm Forest,0 - 0,Arsenal
-06-01-2026,West Ham,1 - 2,Nott'm Forest
-03-01-2026,Aston Villa,3 - 1,Nott'm Forest
-30-12-2025,Nott'm Forest,0 - 2,Everton
-27-12-2025,Nott'm Forest,1 - 2,Man City
-22-12-2025,Fulham,1 - 0,Nott'm Forest
-14-12-2025,Nott'm Forest,3 - 0,Tottenham
-06-12-2025,Everton,3 - 0,Nott'm Forest
-03-12-2025,Wolves,0 - 1,Nott'm Forest
-30-11-2025,Nott'm Forest,0 - 2,Brighton
-22-11-2025,Liverpool,0 - 3,Nott'm Forest
-09-11-2025,Nott'm Forest,3 - 1,Leeds
-01-11-2025,Nott'm Forest,2 - 2,Man United
-26-10-2025,Bournemouth,2 - 0,Nott'm Forest
-18-10-2025,Nott'm Forest,0 - 3,Chelsea
-05-10-2025,Newcastle,2 - 0,Nott'm Forest
-27-09-2025,Nott'm Forest,0 - 1,Sunderland
-20-09-2025,Burnley,1 - 1,Nott'm Forest
-13-09-2025,Arsenal,3 - 0,Nott'm Forest
-31-08-2025,Nott'm Forest,0 - 3,West Ham
-24-08-2025,Crystal Palace,1 - 1,Nott'm Forest
-17-08-2025,Nott'm Forest,3 - 1,Brentford
-22-03-2026,Newcastle,1 - 2,Sunderland
-14-03-2026,Sunderland,0 - 1,Brighton
-03-03-2026,Leeds,0 - 1,Sunderland
-28-02-2026,Bournemouth,1 - 1,Sunderland
-22-02-2026,Sunderland,1 - 3,Fulham
-11-02-2026,Sunderland,0 - 1,Liverpool
-07-02-2026,Arsenal,3 - 0,Sunderland
-02-02-2026,Sunderland,3 - 0,Burnley
-24-01-2026,West Ham,3 - 1,Sunderland
-17-01-2026,Sunderland,2 - 1,Crystal Palace
-07-01-2026,Brentford,3 - 0,Sunderland
-04-01-2026,Tottenham,1 - 1,Sunderland
-01-01-2026,Sunderland,0 - 0,Man City
-28-12-2025,Sunderland,1 - 1,Leeds
-20-12-2025,Brighton,0 - 0,Sunderland
-14-12-2025,Sunderland,1 - 0,Newcastle
-06-12-2025,Man City,3 - 0,Sunderland
-03-12-2025,Liverpool,1 - 1,Sunderland
-29-11-2025,Sunderland,3 - 2,Bournemouth
-22-11-2025,Fulham,1 - 0,Sunderland
-08-11-2025,Sunderland,2 - 2,Arsenal
-03-11-2025,Sunderland,1 - 1,Everton
-25-10-2025,Chelsea,1 - 2,Sunderland
-18-10-2025,Sunderland,2 - 0,Wolves
-04-10-2025,Man United,2 - 0,Sunderland
-27-09-2025,Nott'm Forest,0 - 1,Sunderland
-21-09-2025,Sunderland,1 - 1,Aston Villa
-13-09-2025,Crystal Palace,0 - 0,Sunderland
-30-08-2025,Sunderland,2 - 1,Brentford
-23-08-2025,Burnley,2 - 0,Sunderland
-16-08-2025,Sunderland,3 - 0,West Ham
-22-03-2026,Tottenham,0 - 3,Nott'm Forest
-15-03-2026,Liverpool,1 - 1,Tottenham
-05-03-2026,Tottenham,1 - 3,Crystal Palace
-01-03-2026,Fulham,2 - 1,Tottenham
-22-02-2026,Tottenham,1 - 4,Arsenal
-10-02-2026,Tottenham,1 - 2,Newcastle
-07-02-2026,Man United,2 - 0,Tottenham
-01-02-2026,Tottenham,2 - 2,Man City
-24-01-2026,Burnley,2 - 2,Tottenham
-17-01-2026,Tottenham,1 - 2,West Ham
-07-01-2026,Bournemouth,3 - 2,Tottenham
-04-01-2026,Tottenham,1 - 1,Sunderland
-01-01-2026,Brentford,0 - 0,Tottenham
-28-12-2025,Crystal Palace,0 - 1,Tottenham
-20-12-2025,Tottenham,1 - 2,Liverpool
-14-12-2025,Nott'm Forest,3 - 0,Tottenham
-06-12-2025,Tottenham,2 - 0,Brentford
-02-12-2025,Newcastle,2 - 2,Tottenham
-29-11-2025,Tottenham,1 - 2,Fulham
-23-11-2025,Arsenal,4 - 1,Tottenham
-08-11-2025,Tottenham,2 - 2,Man United
-01-11-2025,Tottenham,0 - 1,Chelsea
-26-10-2025,Everton,0 - 3,Tottenham
-19-10-2025,Tottenham,1 - 2,Aston Villa
-04-10-2025,Leeds,1 - 2,Tottenham
-27-09-2025,Tottenham,1 - 1,Wolves
-20-09-2025,Brighton,2 - 2,Tottenham
-13-09-2025,West Ham,0 - 3,Tottenham
-30-08-2025,Tottenham,0 - 1,Bournemouth
-23-08-2025,Man City,0 - 2,Tottenham
-16-08-2025,Tottenham,3 - 0,Burnley
-22-03-2026,Aston Villa,2 - 0,West Ham
-14-03-2026,West Ham,1 - 1,Man City
-04-03-2026,Fulham,0 - 1,West Ham
-28-02-2026,Liverpool,5 - 2,West Ham
-21-02-2026,West Ham,0 - 0,Bournemouth
-10-02-2026,West Ham,1 - 1,Man United
-07-02-2026,Burnley,0 - 2,West Ham
-31-01-2026,Chelsea,3 - 2,West Ham
-24-01-2026,West Ham,3 - 1,Sunderland
-17-01-2026,Tottenham,1 - 2,West Ham
-06-01-2026,West Ham,1 - 2,Nott'm Forest
-03-01-2026,Wolves,3 - 0,West Ham
-30-12-2025,West Ham,2 - 2,Brighton
-27-12-2025,West Ham,0 - 1,Fulham
-20-12-2025,Man City,3 - 0,West Ham
-14-12-2025,West Ham,2 - 3,Aston Villa
-07-12-2025,Brighton,1 - 1,West Ham
-04-12-2025,Man United,1 - 1,West Ham
-30-11-2025,West Ham,0 - 2,Liverpool
-22-11-2025,Bournemouth,2 - 2,West Ham
-08-11-2025,West Ham,3 - 2,Burnley
-02-11-2025,West Ham,3 - 1,Newcastle
-24-10-2025,Leeds,2 - 1,West Ham
-20-10-2025,West Ham,0 - 2,Brentford
-04-10-2025,Arsenal,2 - 0,West Ham
-29-09-2025,Everton,1 - 1,West Ham
-20-09-2025,West Ham,1 - 2,Crystal Palace
-13-09-2025,West Ham,0 - 3,Tottenham
-31-08-2025,Nott'm Forest,0 - 3,West Ham
-22-08-2025,West Ham,1 - 5,Chelsea
-16-08-2025,Sunderland,3 - 0,West Ham
-16-03-2026,Brentford,2 - 2,Wolves
-03-03-2026,Wolves,2 - 1,Liverpool
-27-02-2026,Wolves,2 - 0,Aston Villa
-22-02-2026,Crystal Palace,1 - 0,Wolves
-18-02-2026,Wolves,2 - 2,Arsenal
-11-02-2026,Nott'm Forest,0 - 0,Wolves
-07-02-2026,Wolves,1 - 3,Chelsea
-31-01-2026,Wolves,0 - 2,Bournemouth
-24-01-2026,Man City,2 - 0,Wolves
-18-01-2026,Wolves,0 - 0,Newcastle
-07-01-2026,Everton,1 - 1,Wolves
-03-01-2026,Wolves,3 - 0,West Ham
-30-12-2025,Man United,1 - 1,Wolves
-27-12-2025,Liverpool,2 - 1,Wolves
-20-12-2025,Wolves,0 - 2,Brentford
-13-12-2025,Arsenal,2 - 1,Wolves
-08-12-2025,Wolves,1 - 4,Man United
-03-12-2025,Wolves,0 - 1,Nott'm Forest
-30-11-2025,Aston Villa,1 - 0,Wolves
-22-11-2025,Wolves,0 - 2,Crystal Palace
-08-11-2025,Chelsea,3 - 0,Wolves
-01-11-2025,Fulham,3 - 0,Wolves
-26-10-2025,Wolves,2 - 3,Burnley
-18-10-2025,Sunderland,2 - 0,Wolves
-05-10-2025,Wolves,1 - 1,Brighton
-27-09-2025,Tottenham,1 - 1,Wolves
-20-09-2025,Wolves,1 - 3,Leeds
-13-09-2025,Newcastle,1 - 0,Wolves
-30-08-2025,Wolves,2 - 3,Everton
-23-08-2025,Bournemouth,1 - 0,Wolves
-16-08-2025,Wolves,0 - 4,Man City
+22-03-2026,Celta,3 - 4,Alaves
+13-03-2026,Alaves,1 - 1,Villarreal
+08-03-2026,Valencia,3 - 2,Alaves
+27-02-2026,Levante,2 - 0,Alaves
+23-02-2026,Alaves,2 - 2,Girona
+14-02-2026,Sevilla,1 - 1,Alaves
+08-02-2026,Alaves,0 - 2,Getafe
+30-01-2026,Espanol,1 - 2,Alaves
+25-01-2026,Alaves,2 - 1,Betis
+18-01-2026,Ath Madrid,1 - 0,Alaves
+10-01-2026,Villarreal,3 - 1,Alaves
+04-01-2026,Alaves,1 - 1,Oviedo
+20-12-2025,Osasuna,3 - 0,Alaves
+14-12-2025,Alaves,1 - 2,Real Madrid
+06-12-2025,Alaves,1 - 0,Sociedad
+29-11-2025,FC Barcelona,3 - 1,Alaves
+22-11-2025,Alaves,0 - 1,Celta
+08-11-2025,Girona,1 - 0,Alaves
+02-11-2025,Alaves,2 - 1,Espanol
+26-10-2025,Vallecano,1 - 0,Alaves
+20-10-2025,Alaves,0 - 0,Valencia
+05-10-2025,Alaves,3 - 1,Elche
+27-09-2025,Mallorca,1 - 0,Alaves
+24-09-2025,Getafe,1 - 1,Alaves
+20-09-2025,Alaves,1 - 2,Sevilla
+13-09-2025,Athletic Club,0 - 1,Alaves
+30-08-2025,Alaves,1 - 1,Ath Madrid
+22-08-2025,Betis,1 - 0,Alaves
+16-08-2025,Alaves,2 - 1,Levante
+04-04-2026,Ath Madrid,1 - 2,FC Barcelona
+22-03-2026,Real Madrid,3 - 2,Ath Madrid
+14-03-2026,Ath Madrid,1 - 0,Getafe
+07-03-2026,Ath Madrid,3 - 2,Sociedad
+28-02-2026,Oviedo,0 - 1,Ath Madrid
+21-02-2026,Ath Madrid,4 - 2,Espanol
+15-02-2026,Vallecano,3 - 0,Ath Madrid
+08-02-2026,Ath Madrid,0 - 1,Betis
+31-01-2026,Levante,0 - 0,Ath Madrid
+25-01-2026,Ath Madrid,3 - 0,Mallorca
+18-01-2026,Ath Madrid,1 - 0,Alaves
+04-01-2026,Sociedad,1 - 1,Ath Madrid
+21-12-2025,Girona,0 - 3,Ath Madrid
+13-12-2025,Ath Madrid,2 - 1,Valencia
+06-12-2025,Athletic Club,1 - 0,Ath Madrid
+02-12-2025,FC Barcelona,3 - 1,Ath Madrid
+29-11-2025,Ath Madrid,2 - 0,Oviedo
+23-11-2025,Getafe,0 - 1,Ath Madrid
+08-11-2025,Ath Madrid,3 - 1,Levante
+01-11-2025,Ath Madrid,3 - 0,Sevilla
+27-10-2025,Betis,0 - 2,Ath Madrid
+18-10-2025,Ath Madrid,1 - 0,Osasuna
+05-10-2025,Celta,1 - 1,Ath Madrid
+27-09-2025,Ath Madrid,5 - 2,Real Madrid
+24-09-2025,Ath Madrid,3 - 2,Vallecano
+21-09-2025,Mallorca,1 - 1,Ath Madrid
+13-09-2025,Ath Madrid,2 - 0,Villarreal
+30-08-2025,Alaves,1 - 1,Ath Madrid
+23-08-2025,Ath Madrid,1 - 1,Elche
+17-08-2025,Espanol,2 - 1,Ath Madrid
+22-03-2026,Athletic Club,2 - 1,Betis
+14-03-2026,Girona,3 - 0,Athletic Club
+07-03-2026,Athletic Club,0 - 1,FC Barcelona
+28-02-2026,Vallecano,1 - 1,Athletic Club
+20-02-2026,Athletic Club,2 - 1,Elche
+15-02-2026,Oviedo,1 - 2,Athletic Club
+08-02-2026,Athletic Club,4 - 2,Levante
+01-02-2026,Athletic Club,1 - 1,Sociedad
+24-01-2026,Sevilla,2 - 1,Athletic Club
+17-01-2026,Mallorca,3 - 2,Athletic Club
+03-01-2026,Osasuna,1 - 1,Athletic Club
+22-12-2025,Athletic Club,1 - 2,Espanol
+14-12-2025,Celta,2 - 0,Athletic Club
+06-12-2025,Athletic Club,1 - 0,Ath Madrid
+03-12-2025,Athletic Club,0 - 3,Real Madrid
+29-11-2025,Levante,0 - 2,Athletic Club
+22-11-2025,FC Barcelona,4 - 0,Athletic Club
+09-11-2025,Athletic Club,1 - 0,Oviedo
+01-11-2025,Sociedad,3 - 2,Athletic Club
+25-10-2025,Athletic Club,0 - 1,Getafe
+19-10-2025,Elche,0 - 0,Athletic Club
+04-10-2025,Athletic Club,2 - 1,Mallorca
+27-09-2025,Villarreal,1 - 0,Athletic Club
+23-09-2025,Athletic Club,1 - 1,Girona
+20-09-2025,Valencia,2 - 0,Athletic Club
+13-09-2025,Athletic Club,0 - 1,Alaves
+31-08-2025,Betis,1 - 2,Athletic Club
+25-08-2025,Athletic Club,1 - 0,Vallecano
+17-08-2025,Athletic Club,3 - 2,Sevilla
+04-04-2026,Betis,0 - 0,Espanol
+22-03-2026,Athletic Club,2 - 1,Betis
+15-03-2026,Betis,1 - 1,Celta
+08-03-2026,Getafe,2 - 0,Betis
+01-03-2026,Betis,2 - 2,Sevilla
+21-02-2026,Betis,1 - 1,Vallecano
+15-02-2026,Mallorca,1 - 2,Betis
+08-02-2026,Ath Madrid,0 - 1,Betis
+01-02-2026,Betis,2 - 1,Valencia
+25-01-2026,Alaves,2 - 1,Betis
+17-01-2026,Betis,2 - 0,Villarreal
+10-01-2026,Oviedo,1 - 1,Betis
+04-01-2026,Real Madrid,5 - 1,Betis
+21-12-2025,Betis,4 - 0,Getafe
+15-12-2025,Vallecano,0 - 0,Betis
+06-12-2025,Betis,3 - 5,FC Barcelona
+30-11-2025,Sevilla,0 - 2,Betis
+23-11-2025,Betis,1 - 1,Girona
+09-11-2025,Valencia,1 - 1,Betis
+02-11-2025,Betis,3 - 0,Mallorca
+27-10-2025,Betis,0 - 2,Ath Madrid
+18-10-2025,Villarreal,2 - 2,Betis
+05-10-2025,Espanol,1 - 2,Betis
+28-09-2025,Betis,2 - 0,Osasuna
+19-09-2025,Betis,3 - 1,Sociedad
+14-09-2025,Levante,2 - 2,Betis
+31-08-2025,Betis,1 - 2,Athletic Club
+27-08-2025,Celta,1 - 1,Betis
+22-08-2025,Betis,1 - 0,Alaves
+18-08-2025,Elche,1 - 1,Betis
+22-03-2026,Celta,3 - 4,Alaves
+15-03-2026,Betis,1 - 1,Celta
+06-03-2026,Celta,1 - 2,Real Madrid
+01-03-2026,Girona,1 - 2,Celta
+22-02-2026,Celta,2 - 0,Mallorca
+14-02-2026,Espanol,2 - 2,Celta
+06-02-2026,Celta,1 - 2,Osasuna
+01-02-2026,Getafe,0 - 0,Celta
+25-01-2026,Sociedad,3 - 1,Celta
+18-01-2026,Celta,3 - 0,Vallecano
+12-01-2026,Sevilla,0 - 1,Celta
+03-01-2026,Celta,4 - 1,Valencia
+20-12-2025,Oviedo,0 - 0,Celta
+14-12-2025,Celta,2 - 0,Athletic Club
+07-12-2025,Real Madrid,0 - 2,Celta
+30-11-2025,Celta,0 - 1,Espanol
+22-11-2025,Alaves,0 - 1,Celta
+09-11-2025,Celta,2 - 4,FC Barcelona
+02-11-2025,Levante,1 - 2,Celta
+26-10-2025,Osasuna,2 - 3,Celta
+19-10-2025,Celta,1 - 1,Sociedad
+05-10-2025,Celta,1 - 1,Ath Madrid
+28-09-2025,Elche,2 - 1,Celta
+21-09-2025,Vallecano,1 - 1,Celta
+14-09-2025,Celta,1 - 1,Girona
+31-08-2025,Celta,1 - 1,Villarreal
+27-08-2025,Celta,1 - 1,Betis
+23-08-2025,Mallorca,1 - 1,Celta
+17-08-2025,Celta,0 - 2,Getafe
+03-04-2026,Vallecano,1 - 0,Elche
+21-03-2026,Elche,2 - 1,Mallorca
+14-03-2026,Real Madrid,4 - 1,Elche
+08-03-2026,Villarreal,2 - 1,Elche
+01-03-2026,Elche,2 - 2,Espanol
+20-02-2026,Athletic Club,2 - 1,Elche
+13-02-2026,Elche,0 - 0,Osasuna
+07-02-2026,Sociedad,3 - 1,Elche
+31-01-2026,Elche,1 - 3,FC Barcelona
+23-01-2026,Levante,3 - 2,Elche
+19-01-2026,Elche,2 - 2,Sevilla
+10-01-2026,Valencia,1 - 1,Elche
+03-01-2026,Elche,1 - 3,Villarreal
+21-12-2025,Elche,4 - 0,Vallecano
+13-12-2025,Mallorca,3 - 1,Elche
+07-12-2025,Elche,3 - 0,Girona
+28-11-2025,Getafe,1 - 0,Elche
+23-11-2025,Elche,2 - 2,Real Madrid
+07-11-2025,Elche,1 - 1,Sociedad
+02-11-2025,FC Barcelona,3 - 1,Elche
+25-10-2025,Espanol,1 - 0,Elche
+19-10-2025,Elche,0 - 0,Athletic Club
+05-10-2025,Alaves,3 - 1,Elche
+28-09-2025,Elche,2 - 1,Celta
+25-09-2025,Osasuna,1 - 1,Elche
+21-09-2025,Elche,1 - 0,Oviedo
+12-09-2025,Sevilla,2 - 2,Elche
+29-08-2025,Elche,2 - 0,Levante
+23-08-2025,Ath Madrid,1 - 1,Elche
+18-08-2025,Elche,1 - 1,Betis
+04-04-2026,Betis,0 - 0,Espanol
+21-03-2026,Espanol,1 - 2,Getafe
+15-03-2026,Mallorca,2 - 1,Espanol
+09-03-2026,Espanol,1 - 1,Oviedo
+01-03-2026,Elche,2 - 2,Espanol
+21-02-2026,Ath Madrid,4 - 2,Espanol
+14-02-2026,Espanol,2 - 2,Celta
+09-02-2026,Villarreal,4 - 1,Espanol
+30-01-2026,Espanol,1 - 2,Alaves
+24-01-2026,Valencia,3 - 2,Espanol
+16-01-2026,Espanol,0 - 2,Girona
+11-01-2026,Levante,1 - 1,Espanol
+03-01-2026,Espanol,0 - 2,FC Barcelona
+22-12-2025,Athletic Club,1 - 2,Espanol
+13-12-2025,Getafe,0 - 1,Espanol
+07-12-2025,Espanol,1 - 0,Vallecano
+30-11-2025,Celta,0 - 1,Espanol
+24-11-2025,Espanol,2 - 1,Sevilla
+08-11-2025,Espanol,0 - 2,Villarreal
+02-11-2025,Alaves,2 - 1,Espanol
+25-10-2025,Espanol,1 - 0,Elche
+17-10-2025,Oviedo,0 - 2,Espanol
+05-10-2025,Espanol,1 - 2,Betis
+26-09-2025,Girona,0 - 0,Espanol
+23-09-2025,Espanol,2 - 2,Valencia
+20-09-2025,Real Madrid,2 - 0,Espanol
+15-09-2025,Espanol,3 - 2,Mallorca
+31-08-2025,Espanol,1 - 0,Osasuna
+24-08-2025,Sociedad,2 - 2,Espanol
+17-08-2025,Espanol,2 - 1,Ath Madrid
+04-04-2026,Ath Madrid,1 - 2,FC Barcelona
+22-03-2026,FC Barcelona,1 - 0,Vallecano
+15-03-2026,FC Barcelona,5 - 2,Sevilla
+07-03-2026,Athletic Club,0 - 1,FC Barcelona
+28-02-2026,FC Barcelona,4 - 1,Villarreal
+22-02-2026,FC Barcelona,3 - 0,Levante
+16-02-2026,Girona,2 - 1,FC Barcelona
+07-02-2026,FC Barcelona,3 - 0,Mallorca
+31-01-2026,Elche,1 - 3,FC Barcelona
+25-01-2026,FC Barcelona,3 - 0,Oviedo
+18-01-2026,Sociedad,2 - 1,FC Barcelona
+03-01-2026,Espanol,0 - 2,FC Barcelona
+21-12-2025,Villarreal,0 - 2,FC Barcelona
+13-12-2025,FC Barcelona,2 - 0,Osasuna
+06-12-2025,Betis,3 - 5,FC Barcelona
+02-12-2025,FC Barcelona,3 - 1,Ath Madrid
+29-11-2025,FC Barcelona,3 - 1,Alaves
+22-11-2025,FC Barcelona,4 - 0,Athletic Club
+09-11-2025,Celta,2 - 4,FC Barcelona
+02-11-2025,FC Barcelona,3 - 1,Elche
+26-10-2025,Real Madrid,2 - 1,FC Barcelona
+18-10-2025,FC Barcelona,2 - 1,Girona
+05-10-2025,Sevilla,4 - 1,FC Barcelona
+28-09-2025,FC Barcelona,2 - 1,Sociedad
+25-09-2025,Oviedo,1 - 3,FC Barcelona
+21-09-2025,FC Barcelona,3 - 0,Getafe
+14-09-2025,FC Barcelona,6 - 0,Valencia
+31-08-2025,Vallecano,1 - 1,FC Barcelona
+23-08-2025,Levante,2 - 3,FC Barcelona
+16-08-2025,Mallorca,0 - 3,FC Barcelona
+21-03-2026,Espanol,1 - 2,Getafe
+14-03-2026,Ath Madrid,1 - 0,Getafe
+08-03-2026,Getafe,2 - 0,Betis
+02-03-2026,Real Madrid,0 - 1,Getafe
+22-02-2026,Getafe,0 - 1,Sevilla
+14-02-2026,Getafe,2 - 1,Villarreal
+08-02-2026,Alaves,0 - 2,Getafe
+01-02-2026,Getafe,0 - 0,Celta
+26-01-2026,Girona,1 - 1,Getafe
+18-01-2026,Getafe,0 - 1,Valencia
+09-01-2026,Getafe,1 - 2,Sociedad
+02-01-2026,Vallecano,1 - 1,Getafe
+21-12-2025,Betis,4 - 0,Getafe
+13-12-2025,Getafe,0 - 1,Espanol
+06-12-2025,Villarreal,2 - 0,Getafe
+28-11-2025,Getafe,1 - 0,Elche
+23-11-2025,Getafe,0 - 1,Ath Madrid
+09-11-2025,Mallorca,1 - 0,Getafe
+31-10-2025,Getafe,2 - 1,Girona
+25-10-2025,Athletic Club,0 - 1,Getafe
+19-10-2025,Getafe,0 - 1,Real Madrid
+03-10-2025,Osasuna,2 - 1,Getafe
+27-09-2025,Getafe,1 - 1,Levante
+24-09-2025,Getafe,1 - 1,Alaves
+21-09-2025,FC Barcelona,3 - 0,Getafe
+13-09-2025,Getafe,2 - 0,Oviedo
+29-08-2025,Valencia,3 - 0,Getafe
+25-08-2025,Sevilla,1 - 2,Getafe
+17-08-2025,Celta,0 - 2,Getafe
+21-03-2026,Osasuna,1 - 0,Girona
+14-03-2026,Girona,3 - 0,Athletic Club
+07-03-2026,Levante,1 - 1,Girona
+01-03-2026,Girona,1 - 2,Celta
+23-02-2026,Alaves,2 - 2,Girona
+16-02-2026,Girona,2 - 1,FC Barcelona
+08-02-2026,Sevilla,1 - 1,Girona
+31-01-2026,Oviedo,1 - 0,Girona
+26-01-2026,Girona,1 - 1,Getafe
+16-01-2026,Espanol,0 - 2,Girona
+10-01-2026,Girona,1 - 0,Osasuna
+04-01-2026,Mallorca,1 - 2,Girona
+21-12-2025,Girona,0 - 3,Ath Madrid
+12-12-2025,Sociedad,1 - 2,Girona
+07-12-2025,Elche,3 - 0,Girona
+30-11-2025,Girona,1 - 1,Real Madrid
+23-11-2025,Betis,1 - 1,Girona
+08-11-2025,Girona,1 - 0,Alaves
+31-10-2025,Getafe,2 - 1,Girona
+25-10-2025,Girona,3 - 3,Oviedo
+18-10-2025,FC Barcelona,2 - 1,Girona
+04-10-2025,Girona,2 - 1,Valencia
+26-09-2025,Girona,0 - 0,Espanol
+23-09-2025,Athletic Club,1 - 1,Girona
+20-09-2025,Girona,0 - 4,Levante
+14-09-2025,Celta,1 - 1,Girona
+30-08-2025,Girona,0 - 2,Sevilla
+24-08-2025,Villarreal,5 - 0,Girona
+15-08-2025,Girona,1 - 3,Vallecano
+04-04-2026,Sociedad,2 - 0,Levante
+21-03-2026,Levante,4 - 2,Oviedo
+16-03-2026,Vallecano,1 - 1,Levante
+07-03-2026,Levante,1 - 1,Girona
+27-02-2026,Levante,2 - 0,Alaves
+22-02-2026,FC Barcelona,3 - 0,Levante
+18-02-2026,Levante,0 - 1,Villarreal
+15-02-2026,Levante,0 - 2,Valencia
+08-02-2026,Athletic Club,4 - 2,Levante
+31-01-2026,Levante,0 - 0,Ath Madrid
+23-01-2026,Levante,3 - 2,Elche
+17-01-2026,Real Madrid,2 - 0,Levante
+11-01-2026,Levante,1 - 1,Espanol
+04-01-2026,Sevilla,0 - 3,Levante
+20-12-2025,Levante,1 - 1,Sociedad
+08-12-2025,Osasuna,2 - 0,Levante
+29-11-2025,Levante,0 - 2,Athletic Club
+21-11-2025,Valencia,1 - 0,Levante
+08-11-2025,Ath Madrid,3 - 1,Levante
+02-11-2025,Levante,1 - 2,Celta
+26-10-2025,Mallorca,1 - 1,Levante
+19-10-2025,Levante,0 - 3,Vallecano
+04-10-2025,Oviedo,0 - 2,Levante
+27-09-2025,Getafe,1 - 1,Levante
+23-09-2025,Levante,1 - 4,Real Madrid
+20-09-2025,Girona,0 - 4,Levante
+14-09-2025,Levante,2 - 2,Betis
+29-08-2025,Elche,2 - 0,Levante
+23-08-2025,Levante,2 - 3,FC Barcelona
+16-08-2025,Alaves,2 - 1,Levante
+04-04-2026,Mallorca,2 - 1,Real Madrid
+21-03-2026,Elche,2 - 1,Mallorca
+15-03-2026,Mallorca,2 - 1,Espanol
+07-03-2026,Osasuna,2 - 2,Mallorca
+28-02-2026,Mallorca,0 - 1,Sociedad
+22-02-2026,Celta,2 - 0,Mallorca
+15-02-2026,Mallorca,1 - 2,Betis
+07-02-2026,FC Barcelona,3 - 0,Mallorca
+02-02-2026,Mallorca,4 - 1,Sevilla
+25-01-2026,Ath Madrid,3 - 0,Mallorca
+17-01-2026,Mallorca,3 - 2,Athletic Club
+11-01-2026,Vallecano,2 - 1,Mallorca
+04-01-2026,Mallorca,1 - 2,Girona
+19-12-2025,Valencia,1 - 1,Mallorca
+13-12-2025,Mallorca,3 - 1,Elche
+05-12-2025,Oviedo,0 - 0,Mallorca
+29-11-2025,Mallorca,2 - 2,Osasuna
+22-11-2025,Villarreal,2 - 1,Mallorca
+09-11-2025,Mallorca,1 - 0,Getafe
+02-11-2025,Betis,3 - 0,Mallorca
+26-10-2025,Mallorca,1 - 1,Levante
+18-10-2025,Sevilla,1 - 3,Mallorca
+04-10-2025,Athletic Club,2 - 1,Mallorca
+27-09-2025,Mallorca,1 - 0,Alaves
+24-09-2025,Sociedad,1 - 0,Mallorca
+21-09-2025,Mallorca,1 - 1,Ath Madrid
+15-09-2025,Espanol,3 - 2,Mallorca
+30-08-2025,Real Madrid,2 - 1,Mallorca
+23-08-2025,Mallorca,1 - 1,Celta
+16-08-2025,Mallorca,0 - 3,FC Barcelona
+21-03-2026,Osasuna,1 - 0,Girona
+15-03-2026,Sociedad,3 - 1,Osasuna
+07-03-2026,Osasuna,2 - 2,Mallorca
+01-03-2026,Valencia,1 - 0,Osasuna
+21-02-2026,Osasuna,2 - 1,Real Madrid
+13-02-2026,Elche,0 - 0,Osasuna
+06-02-2026,Celta,1 - 2,Osasuna
+31-01-2026,Osasuna,2 - 2,Villarreal
+24-01-2026,Vallecano,1 - 3,Osasuna
+17-01-2026,Osasuna,3 - 2,Oviedo
+10-01-2026,Girona,1 - 0,Osasuna
+03-01-2026,Osasuna,1 - 1,Athletic Club
+20-12-2025,Osasuna,3 - 0,Alaves
+13-12-2025,FC Barcelona,2 - 0,Osasuna
+08-12-2025,Osasuna,2 - 0,Levante
+29-11-2025,Mallorca,2 - 2,Osasuna
+22-11-2025,Osasuna,1 - 3,Sociedad
+08-11-2025,Sevilla,1 - 0,Osasuna
+03-11-2025,Oviedo,0 - 0,Osasuna
+26-10-2025,Osasuna,2 - 3,Celta
+18-10-2025,Ath Madrid,1 - 0,Osasuna
+03-10-2025,Osasuna,2 - 1,Getafe
+28-09-2025,Betis,2 - 0,Osasuna
+25-09-2025,Osasuna,1 - 1,Elche
+20-09-2025,Villarreal,2 - 1,Osasuna
+14-09-2025,Osasuna,2 - 0,Vallecano
+31-08-2025,Espanol,1 - 0,Osasuna
+24-08-2025,Osasuna,1 - 0,Valencia
+19-08-2025,Real Madrid,1 - 0,Osasuna
+21-03-2026,Levante,4 - 2,Oviedo
+14-03-2026,Oviedo,1 - 0,Valencia
+09-03-2026,Espanol,1 - 1,Oviedo
+04-03-2026,Vallecano,3 - 0,Oviedo
+28-02-2026,Oviedo,0 - 1,Ath Madrid
+21-02-2026,Sociedad,3 - 3,Oviedo
+15-02-2026,Oviedo,1 - 2,Athletic Club
+31-01-2026,Oviedo,1 - 0,Girona
+25-01-2026,FC Barcelona,3 - 0,Oviedo
+17-01-2026,Osasuna,3 - 2,Oviedo
+10-01-2026,Oviedo,1 - 1,Betis
+04-01-2026,Alaves,1 - 1,Oviedo
+20-12-2025,Oviedo,0 - 0,Celta
+14-12-2025,Sevilla,4 - 0,Oviedo
+05-12-2025,Oviedo,0 - 0,Mallorca
+29-11-2025,Ath Madrid,2 - 0,Oviedo
+23-11-2025,Oviedo,0 - 0,Vallecano
+09-11-2025,Athletic Club,1 - 0,Oviedo
+03-11-2025,Oviedo,0 - 0,Osasuna
+25-10-2025,Girona,3 - 3,Oviedo
+17-10-2025,Oviedo,0 - 2,Espanol
+04-10-2025,Oviedo,0 - 2,Levante
+30-09-2025,Valencia,1 - 2,Oviedo
+25-09-2025,Oviedo,1 - 3,FC Barcelona
+21-09-2025,Elche,1 - 0,Oviedo
+13-09-2025,Getafe,2 - 0,Oviedo
+30-08-2025,Oviedo,1 - 0,Sociedad
+24-08-2025,Oviedo,0 - 3,Real Madrid
+15-08-2025,Villarreal,2 - 0,Oviedo
+04-04-2026,Mallorca,2 - 1,Real Madrid
+22-03-2026,Real Madrid,3 - 2,Ath Madrid
+14-03-2026,Real Madrid,4 - 1,Elche
+06-03-2026,Celta,1 - 2,Real Madrid
+02-03-2026,Real Madrid,0 - 1,Getafe
+21-02-2026,Osasuna,2 - 1,Real Madrid
+14-02-2026,Real Madrid,4 - 1,Sociedad
+08-02-2026,Valencia,0 - 2,Real Madrid
+01-02-2026,Real Madrid,2 - 1,Vallecano
+24-01-2026,Villarreal,0 - 2,Real Madrid
+17-01-2026,Real Madrid,2 - 0,Levante
+04-01-2026,Real Madrid,5 - 1,Betis
+20-12-2025,Real Madrid,2 - 0,Sevilla
+14-12-2025,Alaves,1 - 2,Real Madrid
+07-12-2025,Real Madrid,0 - 2,Celta
+03-12-2025,Athletic Club,0 - 3,Real Madrid
+30-11-2025,Girona,1 - 1,Real Madrid
+23-11-2025,Elche,2 - 2,Real Madrid
+09-11-2025,Vallecano,0 - 0,Real Madrid
+01-11-2025,Real Madrid,4 - 0,Valencia
+26-10-2025,Real Madrid,2 - 1,FC Barcelona
+19-10-2025,Getafe,0 - 1,Real Madrid
+04-10-2025,Real Madrid,3 - 1,Villarreal
+27-09-2025,Ath Madrid,5 - 2,Real Madrid
+23-09-2025,Levante,1 - 4,Real Madrid
+20-09-2025,Real Madrid,2 - 0,Espanol
+13-09-2025,Sociedad,1 - 2,Real Madrid
+30-08-2025,Real Madrid,2 - 1,Mallorca
+24-08-2025,Oviedo,0 - 3,Real Madrid
+19-08-2025,Real Madrid,1 - 0,Osasuna
+21-03-2026,Sevilla,0 - 2,Valencia
+15-03-2026,FC Barcelona,5 - 2,Sevilla
+08-03-2026,Sevilla,1 - 1,Vallecano
+01-03-2026,Betis,2 - 2,Sevilla
+22-02-2026,Getafe,0 - 1,Sevilla
+14-02-2026,Sevilla,1 - 1,Alaves
+08-02-2026,Sevilla,1 - 1,Girona
+02-02-2026,Mallorca,4 - 1,Sevilla
+24-01-2026,Sevilla,2 - 1,Athletic Club
+19-01-2026,Elche,2 - 2,Sevilla
+12-01-2026,Sevilla,0 - 1,Celta
+04-01-2026,Sevilla,0 - 3,Levante
+20-12-2025,Real Madrid,2 - 0,Sevilla
+14-12-2025,Sevilla,4 - 0,Oviedo
+07-12-2025,Valencia,1 - 1,Sevilla
+30-11-2025,Sevilla,0 - 2,Betis
+24-11-2025,Espanol,2 - 1,Sevilla
+08-11-2025,Sevilla,1 - 0,Osasuna
+01-11-2025,Ath Madrid,3 - 0,Sevilla
+24-10-2025,Sociedad,2 - 1,Sevilla
+18-10-2025,Sevilla,1 - 3,Mallorca
+05-10-2025,Sevilla,4 - 1,FC Barcelona
+28-09-2025,Vallecano,0 - 1,Sevilla
+23-09-2025,Sevilla,1 - 2,Villarreal
+20-09-2025,Alaves,1 - 2,Sevilla
+12-09-2025,Sevilla,2 - 2,Elche
+30-08-2025,Girona,0 - 2,Sevilla
+25-08-2025,Sevilla,1 - 2,Getafe
+17-08-2025,Athletic Club,3 - 2,Sevilla
+04-04-2026,Sociedad,2 - 0,Levante
+20-03-2026,Villarreal,3 - 1,Sociedad
+15-03-2026,Sociedad,3 - 1,Osasuna
+07-03-2026,Ath Madrid,3 - 2,Sociedad
+28-02-2026,Mallorca,0 - 1,Sociedad
+21-02-2026,Sociedad,3 - 3,Oviedo
+14-02-2026,Real Madrid,4 - 1,Sociedad
+07-02-2026,Sociedad,3 - 1,Elche
+01-02-2026,Athletic Club,1 - 1,Sociedad
+25-01-2026,Sociedad,3 - 1,Celta
+18-01-2026,Sociedad,2 - 1,FC Barcelona
+09-01-2026,Getafe,1 - 2,Sociedad
+04-01-2026,Sociedad,1 - 1,Ath Madrid
+20-12-2025,Levante,1 - 1,Sociedad
+12-12-2025,Sociedad,1 - 2,Girona
+06-12-2025,Alaves,1 - 0,Sociedad
+30-11-2025,Sociedad,2 - 3,Villarreal
+22-11-2025,Osasuna,1 - 3,Sociedad
+07-11-2025,Elche,1 - 1,Sociedad
+01-11-2025,Sociedad,3 - 2,Athletic Club
+24-10-2025,Sociedad,2 - 1,Sevilla
+19-10-2025,Celta,1 - 1,Sociedad
+05-10-2025,Sociedad,0 - 1,Vallecano
+28-09-2025,FC Barcelona,2 - 1,Sociedad
+24-09-2025,Sociedad,1 - 0,Mallorca
+19-09-2025,Betis,3 - 1,Sociedad
+13-09-2025,Sociedad,1 - 2,Real Madrid
+30-08-2025,Oviedo,1 - 0,Sociedad
+24-08-2025,Sociedad,2 - 2,Espanol
+16-08-2025,Valencia,1 - 1,Sociedad
+21-03-2026,Sevilla,0 - 2,Valencia
+14-03-2026,Oviedo,1 - 0,Valencia
+08-03-2026,Valencia,3 - 2,Alaves
+01-03-2026,Valencia,1 - 0,Osasuna
+22-02-2026,Villarreal,2 - 1,Valencia
+15-02-2026,Levante,0 - 2,Valencia
+08-02-2026,Valencia,0 - 2,Real Madrid
+01-02-2026,Betis,2 - 1,Valencia
+24-01-2026,Valencia,3 - 2,Espanol
+18-01-2026,Getafe,0 - 1,Valencia
+10-01-2026,Valencia,1 - 1,Elche
+03-01-2026,Celta,4 - 1,Valencia
+19-12-2025,Valencia,1 - 1,Mallorca
+13-12-2025,Ath Madrid,2 - 1,Valencia
+07-12-2025,Valencia,1 - 1,Sevilla
+01-12-2025,Vallecano,1 - 1,Valencia
+21-11-2025,Valencia,1 - 0,Levante
+09-11-2025,Valencia,1 - 1,Betis
+01-11-2025,Real Madrid,4 - 0,Valencia
+25-10-2025,Valencia,0 - 2,Villarreal
+20-10-2025,Alaves,0 - 0,Valencia
+04-10-2025,Girona,2 - 1,Valencia
+30-09-2025,Valencia,1 - 2,Oviedo
+23-09-2025,Espanol,2 - 2,Valencia
+20-09-2025,Valencia,2 - 0,Athletic Club
+14-09-2025,FC Barcelona,6 - 0,Valencia
+29-08-2025,Valencia,3 - 0,Getafe
+24-08-2025,Osasuna,1 - 0,Valencia
+16-08-2025,Valencia,1 - 1,Sociedad
+03-04-2026,Vallecano,1 - 0,Elche
+22-03-2026,FC Barcelona,1 - 0,Vallecano
+16-03-2026,Vallecano,1 - 1,Levante
+08-03-2026,Sevilla,1 - 1,Vallecano
+04-03-2026,Vallecano,3 - 0,Oviedo
+28-02-2026,Vallecano,1 - 1,Athletic Club
+21-02-2026,Betis,1 - 1,Vallecano
+15-02-2026,Vallecano,3 - 0,Ath Madrid
+01-02-2026,Real Madrid,2 - 1,Vallecano
+24-01-2026,Vallecano,1 - 3,Osasuna
+18-01-2026,Celta,3 - 0,Vallecano
+11-01-2026,Vallecano,2 - 1,Mallorca
+02-01-2026,Vallecano,1 - 1,Getafe
+21-12-2025,Elche,4 - 0,Vallecano
+15-12-2025,Vallecano,0 - 0,Betis
+07-12-2025,Espanol,1 - 0,Vallecano
+01-12-2025,Vallecano,1 - 1,Valencia
+23-11-2025,Oviedo,0 - 0,Vallecano
+09-11-2025,Vallecano,0 - 0,Real Madrid
+01-11-2025,Villarreal,4 - 0,Vallecano
+26-10-2025,Vallecano,1 - 0,Alaves
+19-10-2025,Levante,0 - 3,Vallecano
+05-10-2025,Sociedad,0 - 1,Vallecano
+28-09-2025,Vallecano,0 - 1,Sevilla
+24-09-2025,Ath Madrid,3 - 2,Vallecano
+21-09-2025,Vallecano,1 - 1,Celta
+14-09-2025,Osasuna,2 - 0,Vallecano
+31-08-2025,Vallecano,1 - 1,FC Barcelona
+25-08-2025,Athletic Club,1 - 0,Vallecano
+15-08-2025,Girona,1 - 3,Vallecano
+20-03-2026,Villarreal,3 - 1,Sociedad
+13-03-2026,Alaves,1 - 1,Villarreal
+08-03-2026,Villarreal,2 - 1,Elche
+28-02-2026,FC Barcelona,4 - 1,Villarreal
+22-02-2026,Villarreal,2 - 1,Valencia
+18-02-2026,Levante,0 - 1,Villarreal
+14-02-2026,Getafe,2 - 1,Villarreal
+09-02-2026,Villarreal,4 - 1,Espanol
+31-01-2026,Osasuna,2 - 2,Villarreal
+24-01-2026,Villarreal,0 - 2,Real Madrid
+17-01-2026,Betis,2 - 0,Villarreal
+10-01-2026,Villarreal,3 - 1,Alaves
+03-01-2026,Elche,1 - 3,Villarreal
+21-12-2025,Villarreal,0 - 2,FC Barcelona
+06-12-2025,Villarreal,2 - 0,Getafe
+30-11-2025,Sociedad,2 - 3,Villarreal
+22-11-2025,Villarreal,2 - 1,Mallorca
+08-11-2025,Espanol,0 - 2,Villarreal
+01-11-2025,Villarreal,4 - 0,Vallecano
+25-10-2025,Valencia,0 - 2,Villarreal
+18-10-2025,Villarreal,2 - 2,Betis
+04-10-2025,Real Madrid,3 - 1,Villarreal
+27-09-2025,Villarreal,1 - 0,Athletic Club
+23-09-2025,Sevilla,1 - 2,Villarreal
+20-09-2025,Villarreal,2 - 1,Osasuna
+13-09-2025,Ath Madrid,2 - 0,Villarreal
+31-08-2025,Celta,1 - 1,Villarreal
+24-08-2025,Villarreal,5 - 0,Girona
+15-08-2025,Villarreal,2 - 0,Oviedo
